@@ -26,8 +26,7 @@ class SearchBar extends Component {
 }
 
 const styles = StyleSheet.create({
-  container: {
-    marginTop:20,
+  container: {    
     borderBottomWidth:0.5,
     borderTopLeftRadius:5,
     borderTopRightRadius:5,

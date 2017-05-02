@@ -13,6 +13,10 @@ export default class Messenger extends Component {
   render() {
     return (
       <View style={{flex: 1, backgroundColor: '#EEEEEE'}}>
+        <StatusBar
+         backgroundColor="black"
+         barStyle="light-content"
+       />
        <Root />
       </View>
     );

@@ -1,6 +1,6 @@
 import SearchBar from './SearchBar';
-
+import SingleMessage from './SingleMessage';
 
 export {
-   SearchBar
+   SearchBar, SingleMessage
 }
